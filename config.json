@@ -1,7 +1,0 @@
-{
-    "clientId": client,
-    "ownerId": owner,
-    "token": token,
-    "Guildid": Guild.id
-
-   }

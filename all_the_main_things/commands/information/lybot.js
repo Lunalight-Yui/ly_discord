@@ -1,5 +1,5 @@
 const {SlashCommandBuilder, EmbedBuilder } = require('discord.js')
-const { ownerId } = require('C:/Users/ACER/Desktop/Other/coding bot/Discord bot/config.json')
+const { ownerId } = require('../Config.JSON') // i will repair it if i have mood
 
 module.exports = {
     cooldown: 5,
@@ -24,4 +24,5 @@ module.exports = {
         .setTimestamp()
         await interaction.reply({ embeds: [embed]})
      }
+
 }

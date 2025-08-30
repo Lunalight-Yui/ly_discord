@@ -1,6 +1,7 @@
 {
-    "clientId": "876474188481826816",
-    "ownerId": "604960307181256724",
+    "clientId": client,
+    "ownerId": owner,
     "token": "",
-    "Guildid": "1327245947809566760"
+    "Guildid": guild
+
    }
